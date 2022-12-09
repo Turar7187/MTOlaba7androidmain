@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MTOLaba7andr</string>
+    <string name="loading">загрузка данных…</string>
+    <string name="update">обновить</string>
+    <string name="not_data">нет данных…</string>
+    <string name="error">Error!</string>
+</resources>

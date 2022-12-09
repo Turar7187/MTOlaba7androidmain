@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/TSN_DEMO_07_JSON_MICRO/build/
+/TSN_DEMO_07_JSON_MICRO/build/intermediates/javac/debug/classes/
